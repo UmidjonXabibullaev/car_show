@@ -86,13 +86,7 @@ h1{
 #Mustang{
     background-image: linear-gradient(rgba(0,0,0 , 0.5) , rgba(0,0,0, 0.5)) , url('../images/mustang.jpg');
 }
-#Tesla{
-    background-image: linear-gradient(rgba(0,0,0 , 0.5) , rgba(0,0,0, 0.5)) , url('../images/tesla.jpg');
+#Gelik{
+    background-image: linear-gradient(rgba(0,0,0 , 0.5) , rgba(0,0,0, 0.5)) , url('../images/gelik.jpg');
    
-}
-#Tesla h1{
-    color: #000;
-}
-#tesla{
-    color: #000;
 }
